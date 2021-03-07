@@ -8,5 +8,6 @@
   <ItemGroup>
     <Folder Include="Core\" />
     <Folder Include="Core\Cards\" />
+    <Folder Include="Core\Rules\" />
   </ItemGroup>
 </Project>
